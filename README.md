@@ -1,11 +1,8 @@
 # ProtonPass-ExportJsonFile
 Transform ProtonPass export JSON file into object
 
-## Notes Sur la version actuelle du projet
-- Les classes sont complète.
-- Prochainement traduction vers l'anglais de tout le code
-- Création de méthodes et fonctions additionnelles à venir.
-
+## Note
+Une documentation viendra par la suite
 
 ## Structure
 Le fichier JSON contient les informations suivantes :
