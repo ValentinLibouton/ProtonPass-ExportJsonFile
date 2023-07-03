@@ -2,7 +2,7 @@
 Transform ProtonPass export JSON file into object
 
 ## Note
-Une documentation viendra par la suite
+Documentation will come later.
 
 ## Structure
 Le fichier JSON contient les informations suivantes :
